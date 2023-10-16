@@ -15,3 +15,11 @@ e gerenciar repositórios Git, facilitando a colaboração de equipes de desenvo
 de código-fonte aberto ou privados. No GitHub, os desenvolvedores podem compartilhar código, rastrear problemas, 
 propor alterações em projetos (por meio de pull requests) e colaborar de forma eficiente em projetos de software. 
 É uma ferramenta essencial para a comunidade de desenvolvimento de software e é amplamente usada em todo o mundo.
+
+3. O QUE É O DOCKER?
+
+R: O Docker é uma plataforma de virtualização de contêineres que simplifica o processo de desenvolvimento, 
+implantação e execução de aplicativos. Ele permite que os desenvolvedores empacotem um aplicativo junto com suas dependências 
+em um contêiner isolado, que pode ser executado de forma consistente em qualquer ambiente compatível com o Docker. 
+Isso torna a implantação de aplicativos mais eficiente, uma vez que os contêineres são leves e compartilham recursos do sistema operacional subjacente, 
+economizando espaço e recursos. O Docker é amplamente utilizado em DevOps e em ambientes de nuvem para criar e gerenciar aplicativos de maneira escalável e fácil de manter.
