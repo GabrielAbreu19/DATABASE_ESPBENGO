@@ -1,0 +1,8 @@
+1. O que é o Git?
+
+R: O Git é um sistema de controle de versão distribuído 
+amplamente utilizado para o rastreamento de alterações em projetos de software.
+Ele permite que várias pessoas colaborem no desenvolvimento de um código-fonte, 
+acompanhem as modificações, e revertam para versões anteriores, se necessário. 
+O Git é essencial para o desenvolvimento de software, pois ajuda a manter o histórico 
+e a integridade do código.
