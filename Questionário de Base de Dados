@@ -1,4 +1,4 @@
-1. O que é o Git?
+1. O QUE É O GIT?
 
 R: O Git é um sistema de controle de versão distribuído 
 amplamente utilizado para o rastreamento de alterações em projetos de software.
@@ -6,3 +6,12 @@ Ele permite que várias pessoas colaborem no desenvolvimento de um código-fonte
 acompanhem as modificações, e revertam para versões anteriores, se necessário. 
 O Git é essencial para o desenvolvimento de software, pois ajuda a manter o histórico 
 e a integridade do código.
+
+2. O QUE É O GITHUB?
+
+R: O GitHub é uma plataforma de hospedagem e colaboração para desenvolvimento de software 
+que utiliza o sistema de controle de versão Git. Ele fornece um local centralizado para armazenar 
+e gerenciar repositórios Git, facilitando a colaboração de equipes de desenvolvimento em projetos 
+de código-fonte aberto ou privados. No GitHub, os desenvolvedores podem compartilhar código, rastrear problemas, 
+propor alterações em projetos (por meio de pull requests) e colaborar de forma eficiente em projetos de software. 
+É uma ferramenta essencial para a comunidade de desenvolvimento de software e é amplamente usada em todo o mundo.
