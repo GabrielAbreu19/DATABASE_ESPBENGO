@@ -23,3 +23,25 @@ implantação e execução de aplicativos. Ele permite que os desenvolvedores em
 em um contêiner isolado, que pode ser executado de forma consistente em qualquer ambiente compatível com o Docker. 
 Isso torna a implantação de aplicativos mais eficiente, uma vez que os contêineres são leves e compartilham recursos do sistema operacional subjacente, 
 economizando espaço e recursos. O Docker é amplamente utilizado em DevOps e em ambientes de nuvem para criar e gerenciar aplicativos de maneira escalável e fácil de manter.
+
+4. QUAL É A UTILIDADE PRÁTICA DO DOCKER?
+
+R: O Docker tem várias utilidades práticas que o tornam uma ferramenta valiosa no desenvolvimento de software e na implantação de aplicativos. Algumas das principais utilidades incluem:
+
+1. **Isolamento de Aplicativos:** O Docker cria contêineres isolados que contêm aplicativos e suas dependências. Isso garante que um aplicativo funcione de maneira consistente, independentemente do ambiente em que é executado.
+
+2. **Portabilidade:** Os contêineres Docker podem ser executados em qualquer ambiente que suporte o Docker, seja em um laptop de desenvolvimento, um servidor local ou na nuvem. Isso torna os aplicativos altamente portáteis.
+
+3. **Eficiência:** Os contêineres Docker são leves e compartilham recursos do sistema operacional subjacente, tornando a utilização de recursos mais eficiente em comparação com máquinas virtuais tradicionais.
+
+4. **Escalabilidade:** Os contêineres Docker são escaláveis, permitindo que você dimensione rapidamente aplicativos para atender a demandas variáveis de tráfego.
+
+5. **Gerenciamento de Dependências:** O Docker simplifica a gestão de dependências do aplicativo, garantindo que todas as bibliotecas necessárias estejam incluídas no contêiner.
+
+6. **Integração Contínua e Entrega Contínua (CI/CD):** O Docker é frequentemente usado em pipelines de CI/CD para criar, testar e implantar aplicativos de forma automatizada, acelerando o ciclo de desenvolvimento.
+
+7. **Colaboração:** Facilita a colaboração entre equipes de desenvolvimento, pois todos podem usar os mesmos contêineres e versões de aplicativos.
+
+8. **Segurança:** Os contêineres Docker são isolados, reduzindo o risco de conflitos entre aplicativos e melhorando a segurança.
+
+Em resumo, o Docker simplifica o desenvolvimento, implantação e gerenciamento de aplicativos, tornando todo o processo mais eficiente e confiável.
